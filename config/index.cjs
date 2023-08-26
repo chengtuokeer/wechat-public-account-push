@@ -13,13 +13,6 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'f0102270ad7947502ea20799ab9d5bec',
 
-  // 为了避免推送服务器误将脚本列为恶意推送脚本，可设置每分钟脚本最大推送数
-  // 每分钟脚本最大推送数，超过此数将会休眠1分钟后再发送剩余消息，不填则默认为5
-  // 此项不建议随意修改
-  MAX_PUSH_ONE_MINUTE: 5,
-  // 配合MAX_PUSH_ONE_MINUTE使用，休眠<SLEEP_TIME>毫秒后再发送剩余消息，不填则默认为65000
-  SLEEP_TIME: 65000,
-
   PROVINCE: '贵州',
   CITY: '贵阳',
 
