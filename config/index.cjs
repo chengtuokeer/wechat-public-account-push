@@ -104,7 +104,7 @@ const USER_CONFIG = {
     },
     {
       // 想要发送的人的名字
-      name: '课表',
+      name: '赵茂碧',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       // 使用其他通道时，请严格按照各个通道的教程进行填写
       id: 'oTkFs5seSWkntpB2YKcFy-epndA4',
@@ -234,7 +234,7 @@ const USER_CONFIG = {
     },
     {
       // 想要发送的人的名字
-      name: '课表',
+      name: '赵芯瑞',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       // 使用其他通道时，请严格按照各个通道的教程进行填写
       id: 'oTkFs5g7uRgaCf4EZ1JzjrVN_7-U',
@@ -364,7 +364,7 @@ const USER_CONFIG = {
     },
     {
       // 想要发送的人的名字
-      name: '课表',
+      name: '秤砣可儿',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       // 使用其他通道时，请严格按照各个通道的教程进行填写
       id: 'oTkFs5oJ-SiicyzlsKxEl3JEzydU',
@@ -496,7 +496,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'tPW_ybWpBTReHh7aXSLqdKxJP92hgsIhdzywvongeZw',
+  CALLBACK_TEMPLATE_ID: 'kaet-jc3-OJwVldfPh3ZzJeufUA-rku7navb2D1ZNGQ',
 
   CALLBACK_USERS: [
     {
